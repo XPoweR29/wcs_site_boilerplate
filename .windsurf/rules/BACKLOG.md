@@ -64,10 +64,10 @@ Goal: create a clean baseline project we can trust.
 Commit: `chore(repo): initialize next.js app router project`
 
 #### TASK A2.2 — Add Tailwind CSS
-- [ ] Install Tailwind toolchain
-- [ ] Create `tailwind.config.*` and `postcss.config.*`
-- [ ] Add Tailwind directives to `app/globals.css`
-- [ ] Verify Tailwind works (quick test: a styled div on home page)
+- [✅] Install Tailwind toolchain
+- [✅] Create `tailwind.config.*` and `postcss.config.*`
+- [✅] Add Tailwind directives to `app/globals.css`
+- [✅] Verify Tailwind works (quick test: a styled div on home page)
 
 Commit: `chore(style): set up tailwind css`
 
