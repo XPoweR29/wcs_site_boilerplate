@@ -37,17 +37,17 @@ We follow it in order. After each task/subtask we create a commit.
 Goal: have a remote repo ready before real work starts.
 
 #### TASK A1.1 — Create a new GitHub repo
-- [ ] Create repo on GitHub (private/public as you prefer)
-- [ ] Choose a name (suggestion): `wcs-starter-v2`
-- [ ] Add `.gitignore`? (we can also rely on Next.js default later)
+- [✅] Create repo on GitHub (private/public as you prefer)
+- [✅] Choose a name (suggestion): `wcs-starter-v2`
+- [✅] Add `.gitignore`? (we can also rely on Next.js default later)
 
 Suggested commit(s): *(none yet — GitHub creation is outside the codebase)*
 
 #### TASK A1.2 — Initialize local git + connect remote
-- [ ] `git init`
-- [ ] Set default branch (`main`)
-- [ ] Add remote `origin`
-- [ ] First push once we have initial files (after A2)
+- [✅] `git init`
+- [✅] Set default branch (`main`)
+- [✅] Add remote `origin`
+- [✅] First push once we have initial files (after A2)
 
 Suggested commit after A2: `chore(repo): initial commit`
 
@@ -57,9 +57,9 @@ Suggested commit after A2: `chore(repo): initial commit`
 Goal: create a clean baseline project we can trust.
 
 #### TASK A2.1 — Create Next.js app (App Router)
-- [ ] Run `create-next-app` with TypeScript + App Router
-- [ ] Ensure Node version is compatible (use LTS)
-- [ ] Verify dev server starts
+- [✅] Run `create-next-app` with TypeScript + App Router
+- [✅] Ensure Node version is compatible (use LTS)
+- [✅] Verify dev server starts
 
 Commit: `chore(repo): initialize next.js app router project`
 
