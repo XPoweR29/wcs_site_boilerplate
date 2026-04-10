@@ -101,14 +101,14 @@ Goal: create the directories we will use across projects.
 
 #### TASK B1.1 — Create baseline folders
 
-- [ ] `app/` routes (App Router)
-- [ ] `components/` split into:
-  - [ ] `components/layout/`
-  - [ ] `components/sections/`
-  - [ ] `components/ui/`
-  - [ ] `components/client/` (client islands only when needed)
-- [ ] `content/` for content-as-code modules
-- [ ] `lib/` for non-UI logic (seo, env, contact)
+- [✅] `app/` routes (App Router)
+- [✅] `components/` split into:
+  - [✅] `components/layout/`
+  - [✅] `components/sections/`
+  - [✅] `components/ui/`
+  - [✅] `components/client/` (client islands only when needed)
+- [✅] `content/` for content-as-code modules
+- [✅] `lib/` for non-UI logic (seo, env, contact)
 
 Commit: `chore(structure): add starter folder structure`
 
